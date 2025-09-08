@@ -1,6 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-
 ## Features
 
 - Responsive design for mobile and desktop
@@ -23,8 +20,3 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 2. Install dependencies with `bun install`
 3. Start the development server with `bun run dev`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Getting Started
-
-First, run the development server:
-# salim

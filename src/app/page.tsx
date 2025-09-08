@@ -46,43 +46,26 @@ const projects = [
   }
 ]
 
-const blogs = [
-  {
-    id: 1,
-    title: 'why we built shipfree',
-    views: 918,
-    date: 'Feb 21, 2025',
-    link: '/blog/why-we-built-shipfree'
-  },
-  {
-    id: 2,
-    title: 'Creating Grainy Textures in Figma',
-    views: 423,
-    date: 'Mar 15, 2025',
-    link: '/blog/grainy-textures'
-  }
-]
-
 const experiences = [
   {
     id: 1,
     role: "Open Source Contributor",
     company: "DVC - MLOps Platform",
-    description: "Engineered a new command with unit tests and authored official documentation for a leading open-source tool.",
+    description: "I engineered the --hide-workspace flag in Python with accompanying unit tests. I collaborated with the project maintainers through Pull Request (#10798) to achieve a successful merge. I also authored the official documentation on Pull Request (#5427). I demonstrated deep engagement by identifying and flagging three additional undocmented flags under exp show.",
     dates: "Jul. 2025 – Aug. 2025",
   },
   {
     id: 2,
     role: "Automation Engineering Intern",
     company: "Warwick Manufacturing Group",
-    description: "Re-engineered a legacy VBA process into a scalable Python script, slashing a 3-week manual workload to 30 seconds.",
+    description: "I slashed a 3-week manual workflow to 3 minutes by developing an automated VBA macro to aid in the STPA process. I improved analysis consistency across Safety Analysts and ported the VBA process into a bare-bones Python backend framework for the companies software engineers to use when they begin developing their own inhouse tool.",
     dates: "Jul. 2024 – Sep. 2024",
   },
   {
     id: 3,
     role: "Backend Engineer Intern",
     company: "Uzum - Tech Unicorn",
-    description: "Designed a data pipeline and developed an automated tracking algorithm that halved the debt recovery timeline.",
+    description: "I desgined and developed an automated data pipeline to extract data from a MariaDB database and process over 5,000 client locations. This pipeline was integrated into the company's main KPI dashboard to improve operational planning through a geospatial visualisation model. My work culminated in developing an automated tracking algorithm that aided the companies lawyers in halving the debt recovery timeline for over a 1,000 cases.",
     dates: "Jul. 2022 – Sep. 2022",
   },
 ] as const;
@@ -97,11 +80,11 @@ export default function Home() {
       </h1>
 
       <div className="flex items-center gap-1.5 font-medium tracking-tight">
-        <h2 className="text-base text-foreground">Python</h2>
-        <span className="text-foreground/50">•</span>
-        <h2 className="text-base text-foreground">Javascript</h2>
+        <h2 className="text-base text-foreground">Full Stack Developer | Python</h2>
         <span className="text-foreground/50">•</span>
         <h2 className="text-base text-foreground">Next.js</h2>
+        <span className="text-foreground/50">•</span>
+        <h2 className="text-base text-foreground">Docker</h2>
       </div>
 
       <p className="pt-4 text-sm text-foreground">

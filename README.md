@@ -4,8 +4,6 @@
 - Custom fonts (Satoshi and Instrument Serif)
 - Dynamic time display with blinking colon
 - Project showcase
-- Blog/thoughts pages
-- About/colophon page
 
 ## Tech Stack
 

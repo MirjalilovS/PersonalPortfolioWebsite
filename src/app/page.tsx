@@ -89,9 +89,11 @@ export default function Home() {
       <div className="flex items-center gap-1.5 font-medium tracking-tight">
         <h2 className="text-base text-foreground">Full Stack Dev | Python</h2>
         <span className="text-foreground/50">•</span>
-        <h2 className="text-base text-foreground">Next.js</h2>
+        <h2 className="text-base text-foreground">Java</h2>
         <span className="text-foreground/50">•</span>
-        <h2 className="text-base text-foreground">Docker</h2>
+        <h2 className="text-base text-foreground">DevOps</h2>
+        <span className="text-foreground/50">•</span>
+        <h2 className="text-base text-foreground">Next.js</h2>
       </div>
 
       <p className="pt-4 text-sm text-foreground">

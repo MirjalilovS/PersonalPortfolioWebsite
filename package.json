@@ -1,5 +1,5 @@
 {
-  "name": "lakshay-portfolio-clone",
+  "name": "mirjalilov-portfolio-clone",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.475.0",
-    "next": "^15.2.0",
+    "next": "^15.2.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.5.0",
